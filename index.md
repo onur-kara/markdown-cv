@@ -1,13 +1,13 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Onur Kara's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Onur Kara, PhD
+Subheading will come here.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="a.onur.kara@gmail.com">isaac@applesdofall.org</a>
+| <a href="www.github.com/onur-kara">My GitHub profile</a>
 </div>
 
 
